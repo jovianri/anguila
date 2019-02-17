@@ -1,0 +1,3 @@
+ng generate service servicios/name
+ng g c folder/name --spec false
+ng generate class modelos/name --type=model --spec false
